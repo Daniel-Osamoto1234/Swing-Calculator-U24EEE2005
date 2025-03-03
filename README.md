@@ -1,9 +1,20 @@
-GUI Calculator
-U24EEE2005-Daniel Oloruntoba Osamoto
-Electrical and Electronics Engineering Department.
+GROUP 6
+Electrical and Electronics engineering department
 
-
-
+U23EEE1051-AzzaamObansa
+U23EEE1052-Abundant285
+U21EEE1080-Abdulkareem Abdulkareem Olayinka
+U23EEE2005- Pato949
+U23EEE2006- EngrAbdul7929
+U24EEE2001-sasadiiqk
+U24EEE2003- Eminence-ui
+U24EEE2004- godwin849
+U24EEE2005- Daniel-Osamoto1234
+U24EEE2006- Ahmedsalim453
+U24EEE2008- Wolavic
+U24EEE2009- habib2880
+U24EEE2010- Uche144
+U24EEE2011- Aliyu991
 
 
 
